@@ -11,9 +11,10 @@ which generated .ics file will be store in the same folder as the python script.
 No private Key is requried. in this code. 
 
 
-///
+
 **
 the eaisest way to achive the same function is to send this to your friend
-and you can simpily subscribe to them who willing to do the work every night. **
+and you can simpily subscribe to them who willing to do the work every night. 
+**
 
-///
+
