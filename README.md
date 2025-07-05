@@ -8,13 +8,12 @@ By simpily modifly the address of API, which can be apply to different districts
 
 which generated .ics file will be store in the same folder as the python script. 
 
-No private Key is requried. in this code. 
+No private Key is requried in this code. 
 
+This can be fully automate by the combination of build in Automation Apps for MacOS, and Applescript which allow user to import the calander to a specific calendar account. 
 
 
 **
 the eaisest way to achive the same function is to send this to your friend
 and you can simpily subscribe to them who willing to do the work every night. 
 **
-
-
