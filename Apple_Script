@@ -12,7 +12,7 @@ tell application "System Events"
 					click calendarPopup
 					delay 0.5
 					
-					-- Select "Agile Price" from the dropdown
+					-- Select "Agile Price" from the dropdown (Replace with your own calendar name)
 					click menu item "Agile Price" of menu 1 of calendarPopup
 					
 					-- Click the OK button if it exists
